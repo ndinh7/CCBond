@@ -1,0 +1,16 @@
+>ZINC|000139131447|
+Cc1ccc(C(=O)C(=O)O)cc1[N+](=O)[O-]
+>ZINC|000001705010|
+Cc1ccc(CC(=O)C(=O)O)c([N+](=O)[O-])c1
+>ZINC|000017111357|
+O=C(O)C(=O)c1ccc(Cl)cc1[N+](=O)[O-]
+>ZINC|000725261670|
+N#Cc1ccc(C(=O)C(=O)O)c([N+](=O)[O-])c1
+>ZINC|000725262003|
+Cc1cc(F)c(C(=O)C(=O)O)cc1[N+](=O)[O-]
+>ZINC|000725262013|
+O=C(O)C(=O)c1cccc([N+](=O)[O-])c1F
+>ZINC|000725262126|
+O=C(O)C(=O)c1cc(F)c([N+](=O)[O-])cc1F
+>ZINC|000725262154|
+Cc1cc(C(=O)C(=O)O)cc([N+](=O)[O-])c1

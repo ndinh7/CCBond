@@ -1,0 +1,41 @@
+﻿Reagent,Chemical Name,Well,Volume (uL),Useable volume (uL)
+Substrate 1,Alpha-keto-gamma-(methylthio)butyrate acid sodium salt,A01,60,46
+Substrate 2,4-hydroxyphenylpyruvic acid,A02,60,46
+Substrate 3,2-oxooctanoic acid,A03,60,46
+Substrate 4,Imidazolepyruvic acid hydrobromide hydrate,A04,60,46
+Substrate 5,2-oxoadipic acid,A05,60,46
+Substrate 6,Trimethylpyruvic acid,A06,60,46
+Substrate 7,Trifluoropyruvic acid hydrate,A07,60,46
+Substrate 8,Mesitylglyoxylic acid,A08,60,46
+Substrate 9,3-methyl-2-oxopentanoic acid sodium salt,A09,60,46
+Substrate 10,Sodium 2-oxobutyrate|A-ketobutyrate,A10,60,46
+Substrate 11,Bromopyruvic acid,A11,60,46
+Substrate 12,Phenylpyruvic acid,A12,60,46
+Substrate 13,2-oxovaleric acid,A13,60,46
+Substrate 14,4-methyl-2-oxovaleric acid,A14,60,46
+Substrate 15,A-ketoglutarate,A15,60,46
+Substrate 16,Pyruvate,A16,60,46
+Substrate 17,A-ketosuberic acid,A17,60,46
+Substrate 18,2-keto-3-deoxy-D-xylonic acid,A18,60,46
+Substrate 19,Benzoylformic acid,A19,60,46
+Substrate 20,3-indoleglyoxylic acid,A20,60,46
+Substrate 21,Oxaloacetic acid,A21,60,46
+Substrate 22,Beta-hydroxypyruvic acid,A22,60,46
+Substrate 23,Thiopyruvic acid,A23,60,46
+Substrate 24,"2-oxo-2-{1-[3,4,5-tris(acetyloxy)oxan-2-yl]-1H-indol-3-yl}acetic acid",A24,60,46
+Substrate 25,2-oxo-4-(thiophen-2-yl)butanoic acid,B01,60,46
+Substrate 26,2-oxo-3-(quinolin-2-yl)propanoic acid,B02,60,46
+Substrate 27,[hydroxy(propan-2-yl)carbamoyl]formic acid,B03,60,46
+Substrate 28,"3-cyano-3-[4-(ethoxycarbonyl)-1,3-thiazol-2-yl]-2-oxopropanoic acid",B04,60,46
+Substrate 29,{[1-(5-chlorothiophen-2-yl)cyclohexyl]carbamoyl}formic acid,B05,60,46
+Substrate 30,"2-(carboxyformamido)-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxylic acid",B06,60,46
+ThDP,ThDP,O01,60,46
+ThDP,ThDP,O02,60,46
+ThDP,ThDP,O03,60,46
+Buffer,Buffer,P01,60,46
+Buffer,Buffer,P02,60,46
+Buffer,Buffer,P03,60,46
+Buffer,Buffer,P04,60,46
+Buffer,Buffer,P05,60,46
+Buffer,Buffer,P06,60,46
+Buffer,Buffer,P07,60,46
